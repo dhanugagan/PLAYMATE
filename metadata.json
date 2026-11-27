@@ -1,0 +1,6 @@
+{
+  "name": "PLAYMATE",
+  "description": "Play Together, Grow Together — A 50-game social, educational, board, puzzle, and arcade arena with animated character companions and custom level transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
